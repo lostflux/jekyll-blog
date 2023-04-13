@@ -1,0 +1,12 @@
+<!-- team members -->
+
+<div>
+  {% for member in site.data.team %}
+    <div class="team-member">
+      <img class="image" src="{{ member.image }}" alt="{{ member.name }}" />
+      <h3 class="name">{{ member.name }}</h3>
+      <p class="role">{{ member.role }}</p>
+      <p class="bio">{{ member.bio }}</p>
+    </div>
+  {% endfor %}
+</div>

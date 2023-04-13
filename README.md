@@ -24,3 +24,18 @@ Include screenshots of what you built.
 ## Resources
 
 * cite any resources
+
+## Site Documentation
+
+### Install dependencies
+
+```bash
+  bundle
+```
+
+### Start the server
+
+```bash
+  bundle exec jekyll s
+```
+### Start the 
