@@ -7,10 +7,10 @@
 ## Review
 
 
-[Techno Tim][tutorial]
+Implemented tutorial :point_right: [link][tutorial-video].
 
-[link to tutorial/tutorials followed](http://google.com)
-[link or links to your implementated versions if applicable](http://google.com)
+Live site :point_right: [link][live-site].
+
 
 ### Overview of what was involved
 
@@ -37,7 +37,8 @@ not tough to work with.
 
 ###  Rating
 
-⭐️⭐️⭐️⭐️⭐️
+<!-- three stars out of five -->
+:star: :star: :star:
 
 ## Resources
 
@@ -57,6 +58,8 @@ not tough to work with.
 
 [starter-theme]:          https://chirpy.cotes.page/posts/getting-started/
 [starter-theme-github]:   https://github.com/cotes2020/chirpy-starter
+
+[live-site]:              https://moon-pod.onrender.com
 
 [static-vs-dynamic]:      https://www.youtube.com/watch?v=_wFJj94kSTU
 [static-site-gen]:        https://www.youtube.com/watch?v=3INXQ_4W42g
