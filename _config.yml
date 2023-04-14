@@ -13,7 +13,7 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   A minimal demo and presentation on Jekyll.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://moon-pod.onrender.com"
 
 github:
   username: github_username # change to your github username
