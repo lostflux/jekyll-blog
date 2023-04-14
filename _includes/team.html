@@ -1,12 +1,28 @@
-<!-- team members -->
 
-<div>
+<div class="team-container">
   {% for member in site.data.team %}
-    <div class="team-member">
-      <img class="image" src="{{ member.image }}" alt="{{ member.name }}" />
-      <h3 class="name">{{ member.name }}</h3>
-      <p class="role">{{ member.role }}</p>
-      <p class="bio">{{ member.bio }}</p>
+    <a  class="member-link" href="{{ member.link }}">
+      <div class="team-member">
+        <div class="image"
+          style="
+          background: url({{member.image}});
+          background-size: 100%;
+          background-repeat: no-repeat;
+          background-position: center;
+        "></div>
+
+        <h3 class="name">{{ member.name }}</h3>
+        <p class="role">{{ member.title }}</p>
+        <ul class="bio">
+          {% for line in member.bio %}
+            <li class="bio-line">{{ line }}</li>
+          {% endfor %}
+        </ul>
+        <!-- <p class="bio">{{ member.bio }}</p> -->
     </div>
+  </a>
   {% endfor %}
 </div>
+
+<!-- load CSS -->
+<link rel="stylesheet" type="text/css" href="/assets/css/team.css">

@@ -1,36 +1,43 @@
-- name: Fenaroli
-  title: Founder
-  image: /img/team/fenaroli.png
-  bio: >
-    Fenaroli is a software engineer with a passion for building
-    products that make a difference. He has a background in
-    computer science and has worked in the tech industry for
-    over 10 years. He is a co-founder of moon-pod and is
-    responsible for the technical side of the business.
-- name: Hadi
-  title: Founder
-  image: /img/team/hadi.png
-  bio: >
-    Hadi is a software engineer with a passion for building
-    products that make a difference. He has a background in
-    computer science and has worked in the tech industry for
-    over 10 years. He is a co-founder of moon-pod and is
-    responsible for the technical side of the business.
-- name: Tim
-  title: Founder
-  image: /img/team/tim.jpg
-  bio: >
-    Tim is a software engineer with a passion for building
-    products that make a difference. He has a background in
-    computer science and has worked in the tech industry for
-    over 10 years. He is a co-founder of moon-pod and is
-    responsible for the technical side of the business.
 - name: Amittai
-  title: Founder
-  image: /img/team/amittai.jpg
-  bio: >
-    Amittai is a software engineer with a passion for building
-    products that make a difference. He has a background in
-    computer science and has worked in the tech industry for
-    over 10 years. He is a co-founder of moon-pod and is
-    responsible for the technical side of the business.
+  title: Developer
+  image: /assets/img/team/amittai.jpg
+  link: https://altair.fyi
+  bio:
+    - Functional programming.
+    - Deep Learning.
+    - Some (not all!) math.
+    - Some (not all!) physics.
+    - Sleep.
+    
+- name: Fenaroli
+  title: Developer
+  image: /assets/img/team/fenaroli.png
+  link: ''
+  bio:
+    - Bio item 1
+    - Bio item 2
+    - Bio item 3
+    - Bio item 4
+    - Bio item 5
+- name: Hadi
+  title: Developer
+  image: /assets/img/team/hadi.png
+  link: ''
+  bio: 
+    - Bio item 1
+    - Bio item 2
+    - Bio item 3
+    - Bio item 4
+    - Bio item 5
+
+- name: Tim
+  title: Developer
+  image: /assets/img/team/tim.jpg
+  link: ''
+  bio: 
+    - Music
+    - AI
+    - Bio item 3
+    - Bio item 4
+    - Bio item 5
+
