@@ -2,7 +2,7 @@
 
 ## Presentation
 
-[link to presentation](http://docs.google.com)
+[link to presentation](https://docs.google.com/presentation/d/1kGgPBJhhi05jxA0J9DwpvwsidaXLUMFURAJHKTAxMv0/edit#slide=id.g22dcbe7721b_0_6)
 
 ## Review
 
