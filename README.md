@@ -2,15 +2,13 @@
 
 ## Presentation
 
-[link to presentation](https://docs.google.com/presentation/d/1kGgPBJhhi05jxA0J9DwpvwsidaXLUMFURAJHKTAxMv0/edit#slide=id.g22dcbe7721b_0_6)
+[link to presentation](https://docs.google.com/presentation/d/1kGgPBJhhi05jxA0J9DwpvwsidaXLUMFURAJHKTAxMv0)
 
 ## Review
-
 
 Implemented tutorial :point_right: [link][tutorial-video].
 
 Live site :point_right: [link][live-site].
-
 
 ### Overview of what was involved
 
@@ -35,7 +33,7 @@ Starter theme :point_right: [site][starter-theme], [github][starter-theme-github
 Pretty good! We found a very helpful tutorial, and Jekyll is overall
 not tough to work with.
 
-###  Rating
+### Rating
 
 <!-- three stars out of five -->
 :star: :star: :star:
@@ -50,7 +48,6 @@ not tough to work with.
 - Tutorial on Jekyll :point_right: [article][tutorial-article-3].
 - Jekyll official docs :point_right: [link][jekyll-docs].
 
-
 [jekyll]:   https://www.npmjs.com/package/jekyll
 [themes]:   https://jekyllthemes.io/
 [ruby-gem]: https://guides.rubygems.org/rubygems-basics/
@@ -58,9 +55,7 @@ not tough to work with.
 
 [starter-theme]:          https://chirpy.cotes.page/posts/getting-started/
 [starter-theme-github]:   https://github.com/cotes2020/chirpy-starter
-
-[live-site]:              https://moon-pod.onrender.com
-
+[live-site]:              https://jekyll-blog.amitt.ai
 [static-vs-dynamic]:      https://www.youtube.com/watch?v=_wFJj94kSTU
 [static-site-gen]:        https://www.youtube.com/watch?v=3INXQ_4W42g
 [tutorial-video]:         https://youtu.be/F8iOU1ci19Q
